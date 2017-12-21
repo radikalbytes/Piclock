@@ -1,0 +1,24 @@
+8:30
+Inicio Bocadillo 1
+8:45
+Fin Bocadillo 1
+9:00
+Inicio Bocadillo 2
+9:15
+Fin Bocadillo 2
+16:30
+Inicio Bocadillo 1
+16:45
+Fin Bocadillo 1
+17:00
+Inicio Bocadillo 2
+17:15
+Fin Bocadillo 2
+1:30
+Inicio Bocadillo 1
+1:45
+Fin Bocadillo 1
+2:00
+Inicio Bocadillo 2
+2:15
+Fin Bocadillo 2
